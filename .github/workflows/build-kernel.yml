@@ -24,7 +24,7 @@ on:
       CLANG_VERSION:
         description: 'Clang version'
         required: true
-        default: 'r450784d'
+        default: 'r458507'
       BUILD_EXTRA_COMMAND:
         description: 'Extra build commands(e.g. LLVM=1 LLVM_IAS=1)'
         required: false
